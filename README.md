@@ -1,1 +1,3 @@
-# todo-app-with-vue
+使用vue做的一个todo单页应用，只用到基础的vue知识，如双向绑定等，没有用到前端路由和状态管理等高级内容。
+
+在慕课网学习vue入门的一个视频代码，[教程链接](url("https://www.imooc.com/video/16405"))。
